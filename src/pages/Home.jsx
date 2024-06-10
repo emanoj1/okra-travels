@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div className="home">
       <div className="home-image">
-        <img src="mysorepalace-ashimdsilva-unsplash.jpg" alt="Home office" />
+        <img src="mysorepalace-ashimdsilva-unsplash.jpg" alt="Home office" className="image" />
         <p>Photo by <a href="https://unsplash.com/photos/turned-off-laptop-computer-with-near-wall-mY3_bvR74fI" target="_blank" rel="noopener noreferrer">Dillon Shook on Unsplash</a>
         </p>
       </div>

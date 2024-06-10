@@ -49,7 +49,7 @@ const About = () => {
 
       </div>
       <div className='about-image'>
-        <img src="namaste-morshaniV-unsplash.jpg" alt="Namaste" />
+        <img src="namaste-morshaniV-unsplash.jpg" alt="Namaste" className="image" />
         <p>Photo by <a href="https://unsplash.com/photos/persons-hands-V-BNenqS1ow" target="_blank" rel="noopener noreferrer">Mor Shani on Unsplash</a>
         </p>
       </div>

@@ -15,3 +15,6 @@
     margin-bottom: 20px; /* Add margin-bottom to create space between paragraphs */
   }
   
+  .image {
+    border-radius: 15px; /* Adjust the value to get the desired roundness */
+  }
