@@ -1,0 +1,39 @@
+/* src/pages/About.css */
+
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    flex-wrap: wrap; /* Ensures content wraps on smaller screens */
+  }
+  
+  .about-content {
+    flex: 2;
+    min-width: 300px; /* Minimum width for the content container */
+    padding: 20px;
+    text-align: left; /* Align text to the left */
+  }
+  
+  .about-image {
+    flex: 1;
+    min-width: 300px; /* Minimum width for the image container */
+    max-width: 500px; /* Maximum width for the image container */
+    text-align: center;
+  }
+  
+  .about-image img {
+    width: 100%;
+    height: auto;
+  }
+  
+  @media (max-width: 768px) {
+    .about {
+      flex-direction: column;
+    }
+  
+    .about-content {
+      text-align: center;
+    }
+  }
+  
