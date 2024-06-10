@@ -18,3 +18,12 @@
   .image {
     border-radius: 15px; /* Adjust the value to get the desired roundness */
   }
+
+  .spaced-list {
+    margin-top: 20px; /* Add top margin to create space between the image and the list */
+    padding-left: 20px; /* Add left padding to align the list correctly */
+  }
+  
+  .spaced-list li {
+    margin-bottom: 10px; /* Add bottom margin to each list item for spacing */
+  }
