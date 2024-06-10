@@ -37,6 +37,16 @@ const About = () => {
         Your support inspires me to keep dreaming big and creating unique products. Thank you so much!
         </p>
 
+        <h1>Why OKRA</h1>
+        <p>
+        Well, apart from being a staple in my favorite curries, Okra (also known as Lady's Finger and Bhindi in Hindi) is a vegetable used 
+        extensively across India's diverse cuisines. Its raw form is admittedly slimy and sticky with a rather distinct aroma, but once cooked with the right spices, oils, and 
+        other ingredients, it transforms into a truly delicious dish. To me, this transformation mirrors the experience of traveling in India. 
+        Just as Okra undergoes a magical change, travel in India can transform the unfamiliar into something wonderfully memorable. Plus, Okra is universal and diverse, 
+        just like Indian culture.
+        And let's be honest, Okra just sounds great!
+        </p>
+
       </div>
       <div className='about-image'>
         <img src="namaste-morshaniV-unsplash.jpg" alt="Namaste" />
