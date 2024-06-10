@@ -45,6 +45,7 @@ const About = () => {
         Just as Okra undergoes a magical change, travel in India can transform the unfamiliar into something wonderfully memorable. Plus, Okra is universal and diverse, 
         just like Indian culture.
         And let's be honest, Okra just sounds great!
+        While we are on the subject of food, check out my cooking at <a href="https://unrecipes.net" target="_blank" rel="noopener noreferrer">Unrecipes.net</a>
         </p>
 
       </div>
