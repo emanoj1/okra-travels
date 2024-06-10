@@ -34,7 +34,7 @@ const Home = () => {
             <li><strong>Donate If You Like</strong>: If you find the service helpful, you can choose to make a donation. If can't, that's perfectly fine too!</li>
           </ol>
         </p>
-        <Link to="/contact" className="plan-button">Let's plan!</Link>
+        <Link to="/plan" className="plan-button">Let's plan!</Link>
       </div>
     </div>
   );
