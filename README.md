@@ -1,6 +1,6 @@
 # WELCOME TO OKRA TRAVELS!
 
-Okra Travels is a solo home-based initiative to help travels in planning their trips to India.
+Okra Travels is a solo home-based initiative to help travelers in planning their trips to India.
 
 Services include:
 1. Researching good flights
