@@ -48,11 +48,10 @@ const About = () => {
         While we are on the subject of food, check out my cooking at <a href="https://unrecipes.net" target="_blank" rel="noopener noreferrer">Unrecipes.net</a>
         </p>
         <div className='about-image'>
-        <img src="okra-sandipkalal-unsplash.jpg" alt="Namaste" className="image" />
-        <p>Photo by <a href="https://unsplash.com/photos/a-metal-bowl-filled-with-green-beans-on-top-of-a-wooden-table-YxJcb7QpsV0" target="_blank" rel="noopener noreferrer">Sandip Kalal on Unsplash</a>
-        </p>
-      </div>
-
+          <img src="okra-sandipkalal-unsplash.jpg" alt="Namaste" className="image" />
+          <p>Photo by <a href="https://unsplash.com/photos/a-metal-bowl-filled-with-green-beans-on-top-of-a-wooden-table-YxJcb7QpsV0" target="_blank" rel="noopener noreferrer"> on Unsplash</a>
+          </p>
+        </div>
       </div>
 
     </div>
