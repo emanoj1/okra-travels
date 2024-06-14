@@ -26,3 +26,7 @@ I cloned my own boilerplate/template which you can find here: https://github.com
 **The tech stack**: React, NodeJS, JavaScript, HTML/CSS.  
 Domain name registered through the fantastic team at [VentraIP Australia!](https://getonline.vip/kDth4mWQ) (_refer-a-friend link_)   
 Deployed on [Netlify](https://netlify.com).  
+Logo: Designed by a freelancer on [Fiverr.com](https://fiverr.com)  
+Photos: [Unsplash](https://Unsplash.com)  
+Art: The autorickshaw - I drew that!
+Content: I wrote all of that too!
