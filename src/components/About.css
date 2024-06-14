@@ -9,10 +9,10 @@
   }
   
   .about-content {
-    flex: 2;
-    min-width: 300px; /* Minimum width for the content container */
-    padding: 20px;
-    text-align: left; /* Align text to the left */
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 1200px;
   }
   
   .about-image {
