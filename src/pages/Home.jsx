@@ -33,7 +33,7 @@ const Home = () => {
           <ol className="spaced-list">
             <li><strong>Submit Trip Details</strong>: Provide essential details of your upcoming trip.</li>
             <li><strong>Receive Personalized Information</strong>: Receive the best possible information for you to make the right decisions.</li>
-            <li><strong>Donate If You Like</strong>: If you find the service helpful, you can choose to make a donation. If you can't, that's perfectly fine too! That's our fees pretty much!</li>
+            <li><strong>Pay-What-You-Can</strong>: If you find the service helpful, you can choose to make a payment of any amount. If you can't, that's perfectly fine too! That's our fees pretty much!</li>
           </ol>
         </p>
         <Link to="/plan" className="plan-button">Let's plan!</Link>

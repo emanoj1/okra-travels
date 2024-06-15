@@ -62,8 +62,7 @@ const About = () => {
         </p>
         <div className='about-image'>
           <img src="okra-sandipkalal-unsplash.jpg" alt="Namaste" className="image" />
-          <p>Photo by <a href="https://unsplash.com/photos/a-metal-bowl-filled-with-green-beans-on-top-of-a-wooden-table-YxJcb7QpsV0" target="_blank" rel="noopener noreferrer"> Sandip Kalal on Unsplash</a>
-          </p>
+          <p>Photo by <a href="https://unsplash.com/photos/a-metal-bowl-filled-with-green-beans-on-top-of-a-wooden-table-YxJcb7QpsV0" target="_blank" rel="noopener noreferrer"> Sandip Kalal on Unsplash</a></p>
         </div>
       </div>
 
