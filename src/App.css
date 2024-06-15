@@ -7,6 +7,12 @@
   pointer-events: none;
 }
 
+/* App.css file*/
+.content {
+  padding-top: 70px; /* Adjust this value based on the height of the navigation bar */
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

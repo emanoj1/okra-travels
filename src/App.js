@@ -16,6 +16,7 @@ const App = () => {
     <Router>
       <div>
         <Header />
+        <div className="content">
         <main>
           <Routes>
             <Route path="/" element={<Home />} />
@@ -27,6 +28,7 @@ const App = () => {
             <Route path="/cookie" element={<CookiePolicy />} />
           </Routes>
         </main>
+        </div>
         <Footer />
       </div>
     </Router>
