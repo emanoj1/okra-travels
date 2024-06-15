@@ -15,10 +15,12 @@ const Contact = () => {
           manoj@okratravels.com.au 
         </p>
         <p>
-          I shall get back to you as early as possible. If you want to plan your trip with me, may I suggest you 
-          <a href="https://okratravels.com.au/plan" target="_blank" rel="noopener noreferrer"> fill out the PLAN form</a> first. All the details you put on there, will help me prepare myself better when I reply.
-          Everything else, use the above email to connect with me. Thanks in advance and I look forward to working with you!
+          I shall get back to you as early as possible. If you want to plan your trip with me, may I suggest you visit 
+          <a href="https://okratravels.com.au/plan"> the PLAN page</a> first. 
+          All the details you put on there will help me prepare myself better when I reply.
+          For everything else, use the above email to connect with me. Thanks in advance and I look forward to working with you!
         </p>
+
       </div>
     </div>
   );
