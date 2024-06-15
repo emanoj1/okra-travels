@@ -92,6 +92,12 @@ const books = [
         link: "https://amzn.to/3VlFBat",
         description: "National Geographic's India Adventure Map is designed to meet the unique needs of adventure travelers with its durability and accurate information. This folded map provides global travelers with the perfect combination of detail and perspective, highlighting hundreds of points of interest and the diverse and unique destinations within the country. The map includes the locations of cities and towns with a user-friendly index, plus a clearly marked road network complete with distances and designations for major highways, main roads, and tracks and trails for those seeking to explore more remote regions."
       },   
+      {
+        title: "India Travel Guide 2023-2024: Unveiling the Unparalleled Tapestry of India's Cultural and Historical Treasures",
+        image: "culturalvoyager-bookcover-india.jpg",
+        link: "https://amzn.to/4b6B15H",
+        description: "Meander through old sanctuaries, dive into the clamoring markets, and enjoy the delectable exhibit of Indian cooking. With exhaustive travel tips and bits of knowledge into the neighborhood lifestyle, you'll find the best convenience, transportation, and unlikely treasures that India brings to the table. Uncover the insider facts of financial plan well disposed travel, embrace nearby traditions, and track the way of dependable the travel industry to guarantee a fulfilling and economical experience."
+      },   
       // Add more books as needed
   ];
   
