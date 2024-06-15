@@ -1,4 +1,5 @@
-# WELCOME TO OKRA TRAVELS!
+![Okra Travels Homepage](public/homepage_ss_okratravels.png)
+
 
 Okra Travels is a solo home-based initiative to help travelers in planning their trips to India. Basically, a virtual human travel assistant!
 
@@ -28,5 +29,5 @@ Domain name registered through the fantastic team at [VentraIP Australia!](https
 Deployed on [Netlify](https://netlify.com).  
 Logo: Designed by a freelancer on [Fiverr.com](https://fiverr.com)  
 Photos: [Unsplash](https://Unsplash.com)  
-Art: The autorickshaw - I drew that!
+Art: The autorickshaw - I drew that!  
 Content: I wrote all of that too!
