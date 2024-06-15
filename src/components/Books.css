@@ -1,0 +1,74 @@
+.books-page {
+    padding: 20px;
+  }
+  
+  .intro-text {
+    text-align: center;
+    margin-bottom: 40px; /* Add some space between the intro text and the books list */
+  }
+
+.books-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .book-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px; /* Add margin-bottom to separate the books */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .book-cover {
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+    border-radius: 8px;
+    transition: transform 0.3s;
+  }
+  
+  .book-cover:hover {
+    transform: scale(1.05);
+  }
+  
+  .book-description {
+    margin-top: 10px;
+  }
+
+  .disclaimers {
+    margin-top: 40px; /* Add some space between the books list and the disclaimers */
+    padding: 20px;
+    border-top: 1px solid #ccc;
+  }
+  
+  .disclaimers h2 {
+    margin-top: 20px;
+  }
+  
+  @media (min-width: 768px) {
+    .book-item {
+      flex-direction: row; /* Change to row layout */
+      align-items: flex-start;
+      text-align: left;
+      width: 100%;
+    }
+  
+    .book-cover {
+      margin-right: 20px; /* Add space between image and description */
+      max-width: 150px; /* Ensure image size remains consistent */
+    }
+  
+    .book-description {
+      margin-top: 0; /* Remove the top margin */
+      max-width: calc(100% - 170px); /* Ensure description takes the remaining width */
+    }
+  }
+  
