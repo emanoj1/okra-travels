@@ -18,7 +18,7 @@ const Home = () => {
         <p>
           Planning a trip to India has never been easier with Okra Travels, a personalized initiative dedicated to making your travel planning seamless and enjoyable. 
         </p>
-        <h1>Our Services</h1>
+        <h1>Services</h1>
         <p>
           <ul className="spaced-list">
             <li><strong>Flight Research</strong>: Shortlisting best flights to suit your schedule and budget ✈️ </li>
