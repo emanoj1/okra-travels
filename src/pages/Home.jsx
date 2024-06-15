@@ -13,7 +13,7 @@ const Home = () => {
       </div>
       <div className="page">
       <h1>Welcome to Okra Travels! 🙏 </h1>
-      <h3>Your virtual Australian travel assistant for India</h3>
+      <h3>Your Australian virtual travel assistant for India</h3>
       <br></br>
         <p>
           Planning a trip to India has never been easier with Okra Travels, a personalized initiative dedicated to making your travel planning seamless and enjoyable. 
