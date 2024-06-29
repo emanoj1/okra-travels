@@ -13,7 +13,7 @@ const Header = () => {
     <header className={`header ${isActive ? 'active' : ''}`}>
       <div className="container">
         <div className="logo">
-          <Link to="/"><img src="/okra_logo_cartoon.png" alt="Logo" /></Link>
+          <Link to="/"><img src="/okra-pa-revised-logo.png" alt="Logo" /></Link>
         </div>
         <nav className="nav">
           <ul className="nav-links">
